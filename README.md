@@ -6,7 +6,7 @@ This repository contains the dataset that proposed in the paper  "Traffic Signs 
 
 
 # Structure of Dataset
-
+The dataset consists of clear and dirty road signs and it is divided into 5 classes, no_righ_turn, no_left_turn, no_parking, no_entry, stop
  * Dataset
    * clear_road_signs
      * train
