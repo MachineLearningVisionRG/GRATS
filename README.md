@@ -29,11 +29,10 @@ The dataset follows the following structure:
 ```
 
 # Citation
-If you use our dataset in a scientific publication, please use the following bibtex citation:
+If you use our dataset in a scientific publication, please use the following citation:
 ```
-@incollection{
-AUTHOR = {Apostolidis, Kyriakos D. and Gkouvrikos, Emmanouil V. and Papakostas, George A.},
-TITLE = {Traffic Signs Recognition Robustness in Autonomous Vehicles Under Physical Adversarial Attacks},
-BOOKTITTLE = {Future Intelligent Transport Systems: Current and Future Perspective Book Series: “AAP Advances in Artificial Intelligence and Robotics},
-YEAR = {2022}
+Apostolidis, K.D., Gkouvrikos, E.V., Vrochidou, E., Papakostas, G.A. (2023). Traffic Sign Recognition Robustness in Autonomous
+Vehicles Under Physical Adversarial Attacks. In: Daimi, K., Alsadoon, A., Coelho, L. (eds) Cutting Edge Applications of
+Computational Intelligence Tools and Techniques. Studies in Computational Intelligence, vol 1118. Springer,
+Cham. https://doi.org/10.1007/978-3-031-44127-1_13
 ```
